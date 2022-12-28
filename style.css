@@ -3,4 +3,8 @@ h1{
     background-color: blue;
     color:antiquewhite;
     border-radius: 50% 50% 20% 20%;
+    
+}
+body{
+    background-color: aliceblue;
 }
